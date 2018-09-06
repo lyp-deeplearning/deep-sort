@@ -6,7 +6,7 @@ you can get the [paper](https://arxiv.org/pdf/1703.07402.pdf) here
 This demo refers to [SSD](https://github.com/SpyderXu/ssd_sort) and [deep-sort](https://github.com/nwojke/deep_sort/issues/68)
 
 ## Result
-![image](https://github.com/lyp-deeplearning/deep-sort/blob/master/deep_sort/result/aa.png)
+
 ## Introduction
 If you want to use this demo ,you should install [SSD](https://github.com/weiliu89/caffe/tree/ssd) .Also,there is a pretrained SSD model offerd to you. When you use this model generate the pedestrain detection result , this result needs being saved as txt format.Fianlly, you can use your test data with the Deep-sort method .  
 ## Dependencies
